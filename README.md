@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 📄 [Resume](https://drive.google.com/file/d/1xhWUta5xCqDZSfdRrhPlKR1GRF5MSBSH/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1TTlKsOqBVCDruiAzrz59fznDssQPU9YI/view?usp=sharing)
 <br>
 <h3 align="left">Skills:</h3>
 <h4>Backend: Node.js, Express, MongoDB, Mongoose</h4>
